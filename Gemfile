@@ -1,10 +1,9 @@
 source 'https://rubygems.org'
 
-ruby '>= 2.2.0', '<= 3.0.0'
+ruby '2.6.6'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '5.2.3' # upgraded from 4.2 for newer bundler
-gem 'uglifier', '>= 1.3.0'
+gem 'rails', '4.2.11'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
@@ -13,7 +12,7 @@ end
 
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> in views
-  gem 'web-console', '~> 3.5.1'
+  gem 'web-console', '~> 2.0'
 end
 
 group :test do
