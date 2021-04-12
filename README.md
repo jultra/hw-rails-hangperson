@@ -74,12 +74,6 @@ database, but like the Sinatra app, this app doesn't use a database at all.)
 Play around with the game to convince yourself it works the same as the
 Sinatra version.
 
-> To view the game in Codio, use the Preview button that says "Project Index" in the top tool bar. Click the drop down and select "Box URL" 
->
-> ![BoxURLpreview](https://global.codio.com/content/BoxURLpreview.png)
->
-> For subsequent previews, you will not need to press the drop down -- your button should now read "Box URL".
-
 # Code Comprehension Questions
 
 ## 2. Where Things Are
